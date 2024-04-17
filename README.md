@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @xcd0tx
 - 👀 I’m interested in ... Python(data science), AI and Software Development
-- 🌱 I’m currently learning ... Advacned Python and SQL
+- 🌱 I’m currently learning ... Computer Science focusing on Advacned Python and SQL as of now
 - 💞️ I’m looking to collaborate on ... Data Science, Software Development and SQL projects 
 - 📫 How to reach me ... choldren44@gmail.com 
 - 😄 Pronouns: ... Any Pronouns Welcome 
